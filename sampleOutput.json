@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Taylor Swift threatens to sue student who tracks her private jet",
+      "description": "Taylor Swift's lawyers say the data shared online is a threat to the singer's \"safety and wellbeing\".",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68223602",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/123BF/production/_132578647_gettyimages-1986419345.jpg",
+      "publishedAt": "2024-02-07T02:07:12.8038075Z",
+      "content": "Taylor Swift's lawyers have threatened to sue a student who tracks the private jets of celebrities, including the singer, and shares it online.\r\nJack Sweeney, using publicly available data, tracks th… [+3578 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Why are US-Mexico border crossings at record levels?",
+      "description": "The influx has caused Joe Biden a massive political headache ahead of the presidential election.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68208637",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1105/production/_132575340_gettyimages-1976437330-1.jpg",
+      "publishedAt": "2024-02-07T01:52:22.03841Z",
+      "content": "Migrant arrivals at the border have risen to record highs during President Joe Biden's administration, a massive political headache for him ahead of the election.\r\nPolls suggest that more than two-th… [+4454 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Israel-Gaza war: Hamas responds to proposed Gaza ceasefire plan",
+      "description": "Israel and the US say they are reviewing the response, which Qatar has described as \"positive\".",
+      "url": "https://www.bbc.co.uk/news/world-middle-east-68223494",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11221/production/_132577107_gettyimages-1976587972.jpg",
+      "publishedAt": "2024-02-07T01:52:20.9449325Z",
+      "content": "Hamas says it has given its response to a framework proposal for a new ceasefire in Gaza. \r\nThe details of the deal - set out by Israel, the US, Qatar and Egypt - have not been released. \r\nIt was ear… [+3260 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "'People will keep dying': Fentanyl crisis grips Mexico's border cities",
+      "description": "More Mexicans are consuming the deadly drug, leading to a spike in overdoses.",
+      "url": "https://www.bbc.co.uk/news/world-latin-america-68101263",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7F6F/production/_132432623_j_vwl7ip.jpg",
+      "publishedAt": "2024-02-07T01:52:19.4609271Z",
+      "content": "The scene which greeted Tijuana's paramedics as they entered 'La Perla' bar in the early hours of the morning was grim.\r\nTwo men were unconscious - a heavy-set man sprawled on the floor, his friend s… [+6675 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "US media giants announce new sports streaming platform",
+      "description": "Walt Disney's ESPN, Fox and Warner Bros. Discovery hope to capture younger audiences and save costs.",
+      "url": "https://www.bbc.co.uk/news/business-68224393",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9AA3/production/_132578593_gettyimages-1966302187.jpg",
+      "publishedAt": "2024-02-07T01:22:14.0380988Z",
+      "content": "Three US media giants have announced a new sports streaming platform to be launched in autumn.\r\nWalt Disney's ESPN, Fox Corp and Warner Bros. Discovery own a wide range of portfolios of sports rights… [+1644 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Alejandro Mayorkas: House Republicans fails to impeach US homeland security secretary",
+      "description": "Republicans accused the homeland security boss of failing to secure the US-Mexico border.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68172247",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6777/production/_132578462_gettyimages-1918134470.jpg",
+      "publishedAt": "2024-02-07T01:22:12.7884093Z",
+      "content": "The Republican-led House of Representatives has failed to impeach Homeland Security Secretary Alejandro Mayorkas over the migrant crisis at the US-Mexico border. \r\nFour Republicans broke ranks and jo… [+3116 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Donald Trump's failed immunity appeal is still a win for his delay strategy",
+      "description": "The time it took to issue the decision has indefinitely delayed Mr Trump's election subversion trial.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68061183",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11979/production/_132575027_gettyimages-1918188009-2.jpg",
+      "publishedAt": "2024-02-06T23:37:16.9913535Z",
+      "content": "Donald Trump has been handed a defeat in court - but one that comes with a generous helping of victory.\r\nAn appeals court ruled that Mr Trump is not immune from criminal prosecution for acts committe… [+3427 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "King Charles seen for first time since diagnosis as Prince Harry arrives in the UK",
+      "description": "King Charles travelled to Sandringham after meeting his son, Prince Harry, who flew in from US.",
+      "url": "https://www.bbc.co.uk/news/uk-68214982",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/143BD/production/_132577828_08299678d0add8d0d21c25e47e820ffd59921093.jpg",
+      "publishedAt": "2024-02-06T22:37:16.523053Z",
+      "content": "King Charles has been pictured for the first time since his cancer diagnosis was made public, after the Duke of Sussex arrived in the UK to visit him.\r\nThe King and Queen were pictured in a car leavi… [+3163 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Tucker Carlson to interview Russia's Putin",
+      "description": "The ex-Fox News host will be the first Western journalist to interview Vladimir Putin since Russia invaded Ukraine.",
+      "url": "https://www.bbc.co.uk/news/world-europe-68223148",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A205/production/_132577414_4b0d0a8d011b6d014aa4fcd0b957e7e0b79577e90_0_4000_26671000x667.jpg",
+      "publishedAt": "2024-02-06T19:37:15.6943458Z",
+      "content": "Former Fox News host, Tucker Carlson, says he will \"soon\" interview Russian President Vladimir Putin in Moscow.\r\nIn a video posted on X, formerly Twitter, Carlson said he wanted to do the interview b… [+2246 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Michigan school shooter's mother guilty of involuntary manslaughter",
+      "description": "Jennifer Crumbley, 45, is the first US parent ever convicted over a mass shooting by their child.",
+      "url": "https://www.bbc.co.uk/news/world-us-canada-68223118",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+      "publishedAt": "2024-02-06T18:52:18.1626424Z",
+      "content": "A jury has found a Michigan mother guilty of involuntary manslaughter for failing to stop her son from carrying out a deadly school shooting.\r\nJennifer Crumbley, 45, is the first US parent convicted … [+861 chars]"
+    }
+  ]
+}
